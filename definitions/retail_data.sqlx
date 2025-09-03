@@ -12,4 +12,4 @@ SELECT
 FROM
   `pp-bigquery-02`.demo_retail.orders
 WHERE
-  order_status IN ('COMPLETE', 'CLOSED');
+  order_status IN ('COMPLETE', 'CLOSED')
